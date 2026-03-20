@@ -1,0 +1,39 @@
+order_id,customer_id,restaurant_id,order_date,total_amount,status,delivery_address,notes
+1,1,1,"2025-01-20 19:30:00",25.50,Delivered,"Via Dante Alighieri, 15, Cassino","Extra cheese please"
+2,2,2,"2025-01-25 12:45:00",17.50,Delivered,"Via Roma, 42, Cassino","No mayo"
+3,3,3,"2025-02-10 20:15:00",34.50,Delivered,"Viale Europa, 88, Cassino","Spicy sauce on side"
+4,4,4,"2025-02-14 19:45:00",25.50,Delivered,"Corso della Repubblica, 33, Cassino","Valentine's dinner"
+5,5,5,"2025-03-05 18:30:00",17.00,Delivered,"Via Garibaldi, 7, Cassino",NULL
+6,6,6,"2025-03-15 20:00:00",18.50,Delivered,"Piazza De Gasperi, 12, Cassino",NULL
+7,7,7,"2025-04-02 13:15:00",27.50,Cancelled,"Via Casilina Nord, 210, Cassino","Customer cancelled"
+8,8,8,"2025-04-10 18:30:00",29.00,Delivered,"Via dei Martiri, 22, Cassino",NULL
+9,9,10,"2025-05-12 15:30:00",15.50,Delivered,"Via Montecassino, 5, Cassino","Afternoon treat"
+10,10,10,"2025-05-20 16:45:00",21.00,Delivered,"Viale della Libertà, 18, Cassino","Birthday party"
+11,11,1,"2025-06-05 20:15:00",32.00,Delivered,"Piazza Labriola, 9, Cassino","Family dinner"
+12,12,10,"2025-06-18 14:00:00",13.50,Delivered,"Via Aquino, 31, Cassino","Hot day treat"
+13,13,10,"2025-06-22 17:30:00",18.00,Delivered,"Via Cassino Vecchio, 14, Cassino","Weekend dessert"
+14,1,3,"2025-07-10 20:30:00",45.50,Delivered,"Via Dante Alighieri, 15, Cassino","Birthday dinner"
+15,2,10,"2025-07-15 16:00:00",22.50,Delivered,"Via Roma, 42, Cassino","Family ice cream"
+16,14,10,"2025-07-25 15:45:00",9.00,Delivered,"Piazza Mattei, 7, Cassino","Quick snack"
+17,3,5,"2025-08-05 18:45:00",22.50,Delivered,"Viale Europa, 88, Cassino","Summer dinner"
+18,4,10,"2025-08-15 19:00:00",24.00,Delivered,"Corso della Repubblica, 33, Cassino","Evening dessert"
+19,5,10,"2025-08-20 16:30:00",13.50,Cancelled,"Via Garibaldi, 7, Cassino","Out of stock"
+20,6,7,"2025-09-03 19:30:00",40.50,Delivered,"Piazza De Gasperi, 12, Cassino","Party order"
+21,7,8,"2025-09-20 18:15:00",34.00,Delivered,"Via Casilina Nord, 210, Cassino",NULL
+22,8,10,"2025-09-25 15:15:00",8.50,Delivered,"Via dei Martiri, 22, Cassino","Afternoon gelato"
+23,9,9,"2025-10-12 13:30:00",18.50,Delivered,"Via Montecassino, 5, Cassino","Quick lunch"
+24,10,10,"2025-10-25 14:45:00",12.00,Delivered,"Viale della Libertà, 18, Cassino","Weekend treat"
+25,11,1,"2025-11-08 19:00:00",28.50,Delivered,"Piazza Labriola, 9, Cassino","Weekend dinner"
+26,12,2,"2025-11-15 12:45:00",16.00,Delivered,"Via Aquino, 31, Cassino",Lunch
+27,13,3,"2025-12-02 19:30:00",38.50,"Out for Delivery","Via Cassino Vecchio, 14, Cassino",NULL
+28,14,10,"2025-12-05 20:15:00",18.50,Preparing,"Piazza Mattei, 7, Cassino","Movie night dessert"
+29,1,10,"2025-12-08 18:45:00",14.00,Placed,"Via Dante Alighieri, 15, Cassino","Dinner dessert"
+30,2,6,"2025-12-10 19:30:00",19.50,Delivered,"Via Roma, 42, Cassino",NULL
+31,3,7,"2025-12-12 20:00:00",41.00,Delivered,"Viale Europa, 88, Cassino","Large order"
+32,4,10,"2025-12-15 18:15:00",22.00,Delivered,"Corso della Repubblica, 33, Cassino","Family gathering"
+33,5,9,"2025-12-18 13:00:00",13.50,"Out for Delivery","Via Garibaldi, 7, Cassino",Lunch
+34,6,10,"2025-12-20 19:45:00",27.00,Preparing,"Piazza De Gasperi, 12, Cassino","Christmas party dessert"
+35,7,1,"2025-12-22 20:30:00",34.50,Placed,"Via Casilina Nord, 210, Cassino","Christmas dinner"
+36,8,10,"2025-12-24 18:00:00",16.50,Cancelled,"Via dei Martiri, 22, Cassino","Change of plans"
+37,9,10,"2025-12-26 15:30:00",20.50,Delivered,"Via Montecassino, 5, Cassino","Boxing Day treat"
+38,10,10,"2025-12-28 16:45:00",13.00,Delivered,"Viale della Libertà, 18, Cassino","Weekend dessert"
